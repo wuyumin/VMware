@@ -1,3 +1,7 @@
+# 物理机配置  
+  
+**开启虚拟化**：一般是在BIOS里设置`Intel Virtualazation Technology`为Enabled即可（该设置项一般在Configuration选项里）	
+	
 # VMware配置  
   
 **设置进入BIOS前停顿时间**	 
